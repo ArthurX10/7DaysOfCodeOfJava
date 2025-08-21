@@ -1,4 +1,4 @@
-Top 250 Filmes com Java + API (7DaysOfCode - Alura)
+🎬Top 250 Filmes com Java + API (7DaysOfCode - Alura)  
 Este projeto foi desenvolvido como parte do #7DaysOfCode em Java da Alura, com o objetivo de praticar consumo de APIs REST e manipulação de dados em Java.
 O programa consome a API do TMDb (The Movie Database) e lista os 250 filmes mais bem avaliados, exibindo título, ano e nota média.
 
